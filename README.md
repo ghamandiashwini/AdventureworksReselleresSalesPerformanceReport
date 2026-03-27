@@ -1,4 +1,4 @@
-# AdventureworksReselleresSalesPerfAdventureWorks Sales & Reseller Performance 
+# Adventure works Reselleres Sales Performance Report
 Project Overview
 This project analyses the AdventureWorks Reseller Sales dataset to uncover key business insights related to reseller performance, product sales, and regional trends. The goal is to transform raw sales data into meaningful insights that support data-driven decision-making.
 The analysis focuses on understanding how different resellers contribute to overall revenue, identifying top-performing and underperforming partners, and evaluating product category performance across various regions.
