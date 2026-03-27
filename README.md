@@ -51,12 +51,7 @@ ________________________________________
 Tools & Technologies
 •	Power BI (Dashboard & Visualization) 
 •	DAX (Measures & Calculations) 
-________________________________________ Project Structure
-AdventureWorks-Sales-Analysis/
-│──Dashboard /________.pbix
-│── Screenshots/
-│── README.md
-________________________________________
+_______________________________________
 Author
 Ashwini Ghamandi
 ormanceReport
