@@ -1,10 +1,10 @@
 # Adventure works Reselleres Sales Performance Report
 Project Overview
-This project analyses the AdventureWorks Reseller Sales dataset to uncover key business insights related to reseller performance, product sales, and regional trends. The goal is to transform raw sales data into meaningful insights that support data-driven decision-making.
+This project: analyses the AdventureWorks Reseller Sales dataset to uncover key business insights related to reseller performance, product sales, and regional trends. The goal is to transform raw sales data into meaningful insights that support data-driven decision-making.
 The analysis focuses on understanding how different resellers contribute to overall revenue, identifying top-performing and underperforming partners, and evaluating product category performance across various regions.
 Using Power BI, interactive dashboards were developed to visualize sales trends, reseller segmentation, and profitability metrics. Key techniques such as DAX calculations, data modelling, and data visualization were applied to derive actionable insights.
 ________________________________________
-Business Story
+Business Story:
 1. Overall Sales Performance
 The analysis begins with a high-level view of total sales, revealing consistent growth trends with periodic fluctuations. Seasonal patterns suggest that certain months contribute significantly more to revenue, indicating opportunities for targeted campaigns and inventory planning.
 ________________________________________
@@ -25,7 +25,7 @@ ________________________________________
  5. Country & Regional Trends
 •	United States has most sales and profit and Australia has lowest sales and profit.
 ________________________________________
-Key Metrics Used
+Key Metrics Used:
 1.	Average order value
 2.	Profit margin %
 3.	Reseller segment
@@ -38,7 +38,7 @@ Key Metrics Used
 10.	Bottom 10 products
 11.	YOY growth %
 ________________________________________
-Sales Performance Key Insights
+Sales Performance Key Insights:
 1.	Year 2018 year to year growth in highest and in year 2020 year to year growth is lowest.
 2.	Year 2020 has a lowest profit and 2018 has a highest profit. Overall, June and July it’s a loss and November have a highest profit.
 3.	Year 2017 has a lowest sale and 2019 has a highest sale.  Overall, all August has highest sales. Overall, June has lowest sales.
@@ -48,7 +48,7 @@ Sales Performance Key Insights
 7.	Products are segmented into high performing, medium performing and low performing products. there are most products in low performing segment. there is place to focus on sales of those products.
 8.	Resellers are segmented into high performing, medium performing and low performing resellers. there are most resellers in low performing segment. there is place to focus on sales of those resellers.
 ________________________________________
-Tools & Technologies
+Tools & Technologies:
 •	Power BI (Dashboard & Visualization) 
 •	DAX (Measures & Calculations) 
 _______________________________________
